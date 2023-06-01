@@ -6,5 +6,6 @@ public class Practclass
 	{
 		
 		System.out.println("ok");
+		//Edited successfully in repo
 	}
 }
