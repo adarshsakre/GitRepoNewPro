@@ -1,6 +1,6 @@
 package practice;
 
-public class Practclass 
+public class Practclasstest 
 {
 	public static void main(String[] args)
 	{
