@@ -1,11 +1,11 @@
 package practice;
 
-public class Practclass 
+public class Practclasstest 
 {
 	public static void main(String[] args)
 	{
 		
 		System.out.println("ok");
-		//Edited successfully in repo
+		//changes
 	}
 }
