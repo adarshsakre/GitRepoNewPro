@@ -12,7 +12,7 @@ public class Parallel_Flipkart extends BaseClass
 	public void launch()
 	{
 		
-		//done
+		//done good
 		driver.get("https://www.flipkart.com/");
 	}
 }
